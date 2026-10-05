@@ -9,11 +9,11 @@ I work on **DANI**, a Persian digital reading and publishing project currently i
 - Persian and right-to-left content quality: Unicode, half-spaces (ZWNJ), and mixed-language text.
 - EPUB and PDF reading, alongside audiobook experiences.
 - Accessibility, clear navigation, and interoperability across reading environments.
-- Preparing a useful, independently maintainable open-source contribution from real publishing needs.
+- Maintaining [rtlpub](https://github.com/qaribi/rtlpub), a new offline Persian/RTL publishing preflight tool.
 
 ## DANI and open source
 
-DANI is in development. The scope of a future public repository is being reviewed before release. Public work will be documented with reproducible examples, clear licensing, tests, and contribution guidance.
+DANI is in development. [rtlpub](https://github.com/qaribi/rtlpub) is an independent MIT-licensed Python CLI for bounded, read-only checks of Persian text, XHTML and unencrypted EPUB 3. It includes synthetic examples, tests and contribution guidance. It complements EPUBCheck and accessibility tools; it does not certify conformance. DANI integration is planned, not yet implemented.
 
 I'm interested in exchanging practical examples and feedback about Persian/RTL publishing and accessible digital reading.
 
@@ -25,6 +25,6 @@ I'm interested in exchanging practical examples and feedback about Persian/RTL p
 
 در پروژهٔ **دانی** روی نشر و مطالعهٔ دیجیتال فارسی کار می‌کنم. توجه من به کیفیت محتوای فارسی و راست‌به‌چپ، دسترس‌پذیری و تجربهٔ قابل‌اعتماد مطالعه است.
 
-دانی در حال توسعه است. محدودهٔ انتشار متن‌باز بر اساس نیاز واقعی، مجوز روشن و قابلیت نگهداری مستقل در حال بررسی است.
+دانی در حال توسعه است. ابزار مستقل و متن‌باز [rtlpub](https://github.com/qaribi/rtlpub) با مجوز MIT برای بررسی آفلاین متن فارسی، XHTML و EPUB 3 بدون تغییر ورودی منتشر شده است. این ابزار جایگزین اعتبارسنجی کامل EPUB یا ارزیابی دسترس‌پذیری نیست؛ اتصال آن به دانی هنوز انجام نشده است.
 
 </div>
